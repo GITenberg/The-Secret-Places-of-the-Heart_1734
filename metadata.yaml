@@ -1,0 +1,34 @@
+_repo: The-Secret-Places-of-the-Heart_1734
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: H.G. Wells is best remembered as a central figure in the development
+  of the science fiction genre and as the creator of such works as The Time Machine,
+  The Island of Doctor Moreau, and The War of the Worlds. However, much of his literary
+  output was more conventional in nature, and he published a number of novels dealing
+  with interpersonal relationships and social themes. Many critics regard The Secret
+  Places of the Heart as a heavily autobiographical account of one of Wells' failed
+  ...
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Secret Places of the Heart
+url: http://www.gutenberg.org/ebooks/1734
